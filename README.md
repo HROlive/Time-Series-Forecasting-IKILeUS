@@ -33,4 +33,4 @@ More detailed information and links for the course can be found on the [course w
 
 The certificate for the workshop can be found below:
 
-["IKILeUS: Time Series Forecasting" - HLRS Supercomputing Academy]() (Issued On: November 2024)
+["IKILeUS: Time Series Forecasting" - University of Stuttgart (HLRS)](https://github.com/HROlive/Time-Series-Forecasting-IKILeUS/blob/main/images/certificate.pdf) (Issued On: November 2024)
